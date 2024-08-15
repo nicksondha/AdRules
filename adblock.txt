@@ -18,3 +18,7 @@
 ||click.googleanalytics.com^
 ||advice-ads.s3.amazonaws.com^
 ||afs.googlesyndication.com^
+||app.getsentry.com^
+||appmetrica.yandex.ru^
+
+
